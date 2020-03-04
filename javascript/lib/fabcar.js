@@ -66,10 +66,10 @@ class FabCar extends Contract {
                 owner: 'Valeria',
             },
             {
-                color: 'brown',
-                make: 'Holden',
-                model: 'Barina',
-                owner: 'Shotaro',
+                color: 'red',
+                make: 'honda',
+                model: 'civic',
+                owner: 'dishan',
             },
         ];
 
